@@ -6,3 +6,11 @@
 2024-04-17 17:35:10.8160 Info FileTarget(Name=file): Deleting old archive file: '/var/folders/nw/cd8wx_9947d6wn1kr32vbr400000gn/T/shiftleft-489787641/output/shiftleft-csharp-demo/messages/csharp2cpg.log'.
 2024-04-17 17:35:13.5953 Info AppDomain Shutting down. LogFactory closing...
 2024-04-17 17:35:13.5979 Info LogFactory has been closed.
+2024-04-17 17:48:42.3737 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2024-04-17 17:48:42.3917 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-17 17:48:42.3961 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-17 17:48:42.4647 Info Validating config: TargetNames=console, file, ConfigItems=18, FilePath=/private/var/folders/nw/cd8wx_9947d6wn1kr32vbr400000gn/T/shiftleft-2035620445/csharp2cpg/bin/NLog.config
+2024-04-17 17:48:42.4682 Info Configuration initialized.
+2024-04-17 17:48:42.4752 Info FileTarget(Name=file): Deleting old archive file: '/var/folders/nw/cd8wx_9947d6wn1kr32vbr400000gn/T/shiftleft-2035620445/output/gabe-csharp-demo/messages/csharp2cpg.log'.
+2024-04-17 17:48:45.8212 Info AppDomain Shutting down. LogFactory closing...
+2024-04-17 17:48:45.8239 Info LogFactory has been closed.
